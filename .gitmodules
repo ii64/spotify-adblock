@@ -1,0 +1,18 @@
+[submodule "src/lib/log.c"]
+	path = src/lib/log.c
+	url = https://github.com/rxi/log.c
+[submodule "src/dll/lib/log.c"]
+	path = src/dll/lib/log.c
+	url = https://github.com/rxi/log.c
+[submodule "src/dll/lib/cef"]
+	path = src/dll/lib/cef
+	url = https://github.com/chromiumembedded/cef
+[submodule "src/dll/lib/libcyaml"]
+	path = src/dll/lib/libcyaml
+	url = https://github.com/tlsa/libcyaml
+[submodule "src/dll/lib/libyaml"]
+	path = src/dll/lib/libyaml
+	url = https://github.com/yaml/libyaml
+[submodule "src/dll/lib/minhook"]
+	path = src/dll/lib/minhook
+	url = https://github.com/TsudaKageyu/minhook
