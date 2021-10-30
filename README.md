@@ -10,6 +10,16 @@ Open an issue with information related if any error occurs.
 mingw32-make all
 ```
 
+Tested gcc:
+
+```
+# gcc --version
+gcc (MinGW-W64 x86_64-posix-seh, built by Brecht Sanders) 11.2.0
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+```
+
 ## Config example
 
 name it `adblock.yaml`
